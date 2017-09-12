@@ -148,7 +148,7 @@ pre {
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
+  border-top: 5px solid black;
   border-bottom: 1px solid #e8e8e8;
   background-image: url("../qk_app.jpg");
   min-height: 100px;
@@ -160,9 +160,10 @@ pre {
   line-height: 56px;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: left; }
+  float: left;
+  color: black; }
   .site-title, .site-title:visited {
-    color: #424242; }
+    color: black; }
 
 .site-nav {
   float: right;
@@ -195,7 +196,7 @@ pre {
           width: 18px;
           height: 15px; }
           .site-nav .menu-icon > svg path {
-            fill: #424242; }
+            fill: black; }
       .site-nav .trigger {
         clear: both;
         display: none; }

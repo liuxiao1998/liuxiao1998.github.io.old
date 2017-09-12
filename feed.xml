@@ -6,9 +6,22 @@
 </description>
     <link>http://www.liuxiao1998.me/</link>
     <atom:link href="http://www.liuxiao1998.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Sep 2017 18:32:50 +0800</pubDate>
-    <lastBuildDate>Sun, 10 Sep 2017 18:32:50 +0800</lastBuildDate>
+    <pubDate>Tue, 12 Sep 2017 12:14:52 +0800</pubDate>
+    <lastBuildDate>Tue, 12 Sep 2017 12:14:52 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>我的课程表</title>
+        <description>&lt;p&gt;　　&lt;img src=&quot;/my_class.png&quot; alt=&quot;2017第一学期&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Sep 2017 12:13:00 +0800</pubDate>
+        <link>http://www.liuxiao1998.me/%E5%AD%A6%E4%B9%A0/2017/09/12/%E6%88%91%E7%9A%84%E8%AF%BE%E7%A8%8B%E8%A1%A8.html</link>
+        <guid isPermaLink="true">http://www.liuxiao1998.me/%E5%AD%A6%E4%B9%A0/2017/09/12/%E6%88%91%E7%9A%84%E8%AF%BE%E7%A8%8B%E8%A1%A8.html</guid>
+        
+        
+        <category>学习</category>
+        
+      </item>
     
       <item>
         <title>用python爬取笔趣阁小说</title>
