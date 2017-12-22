@@ -1,7 +1,10 @@
 body{
   margin: 0px 0px 0px 0px;
   padding: 0px 0px 0px 0px;
+  width:100%;
+  height:100%;
 }
+
 a:link{
   text-decoration: none;
   color: black;
@@ -21,7 +24,7 @@ a:active{
 #header{
   width: auto;
   height: 90px;
-  border-top: 8px solid black;
+  border-top: 8px solid #272a33;
   background-color: lightblue;
   font-size: 17px;
 }
@@ -30,10 +33,9 @@ a:active{
   width:auto;
   height:auto;
   margin-bottom:0px;
-  background-color:white;
   font-family: Arial;
   background-color: black;
-  color:white;
+  color:#009688;
 }
 #ban{
   margin-top: 0px;
@@ -76,13 +78,14 @@ a:active{
 
 }
 #rightside{
+  margin-top:0px;
+  padding-top:0px;
   margin-left: 300px;
   width:auto;
   height: 710px;
   background-image: url("../img/bg4.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  margin-bottom: 0px;
+  background-size: 100%;
 }
 .list ul{
   list-style-type:none;
